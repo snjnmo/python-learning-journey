@@ -1,4 +1,5 @@
 name = 'Sanjana'
-learning= 'python'
+learning = 'python'
+
 print(name)
 print(learning)
